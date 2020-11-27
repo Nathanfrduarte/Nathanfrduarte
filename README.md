@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nathanfrduarte)](https://github.com/Nathanfrduarte)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanfrduarte/)](https://www.linkedin.com/in/nathanfrduarte/)
-[![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanfrduarte/)](https://www.linkedin.com/in/nathanfrduarte/)
+[![Gmail Badge](https://img.shields.io/badge/-mail-blue?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/nathanfrduarte/)](https://www.linkedin.com/in/nathanfrduarte/)
 
 ## Git Status
 
