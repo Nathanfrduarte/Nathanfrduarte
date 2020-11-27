@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 I’m currently working on **Nerit Sistemas**.
 - 🌱 I’m currently learning **ReactJs, NodeJS**
-- 👯 I’m looking to collaborate on ...
 - 😄 About me: Graduated in information systems and with experience in Frontend and Backend, I always seek to acquire and improve my knowledge, learning new languages and market trends. I always try to do everything with good humor and agility, responsibility and determination. 
 
 
