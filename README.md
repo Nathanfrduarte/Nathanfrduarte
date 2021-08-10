@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 👨‍💻 I’m currently working on **Denox Tecnologia**.
+- 👨‍💻 I’m currently working on **HDN Digital**.
 - 🌱 I’m currently workind with **ReactJs, TypeScript, NodeJS**
 - 😄 About me: Graduated in information systems and with experience in Frontend and Backend areas, I always seek to acquire and improve my knowledge, learning new languages and market trends. I always try to do everything with good humor and agility, responsibility and determination, always aiming to collaborate with everyone and always trying to help, keeping in mind the importance of developing teamwork. 
 
