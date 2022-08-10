@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
 
 ## Find me around the web 🌎
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Nathanfrduarte)](https://github.com/Nathanfrduarte)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanfrduarte/)](https://www.linkedin.com/in/nathanfrduarte/)
+<div> 
+  <a href = "mailto:nathanfrduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nathanfrduarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> 
 
 ## Git Status
 
@@ -42,3 +43,5 @@ Here are some ideas to get you started:
     />
   </a>
 </p>
+
+  ![Snake animation](https://github.com/Nathanfrduarte/Nathanfrduarte/blob/output/github-contribution-grid-snake.svg)
