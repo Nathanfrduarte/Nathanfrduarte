@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on **Levva**.
 - 🌱 I’m currently workind with **ReactJs, TypeScript, NodeJS**
-- 😄 About me: Graduated in information systems and with experience in Frontend and Backend areas, with a greater focus on Frontend, I always seek to acquire and improve my knowledge, learning new languages and market trends. I always try to do everything with good humor and agility, responsibility and determination, always aiming to collaborate with everyone and always trying to help, keeping in mind the importance of developing teamwork.
+- 😄 Graduated in information systems and with experience in Frontend and Backend areas, with a greater focus on Frontend, I always seek to acquire and improve my knowledge, learning new languages and market trends. I always try to do everything with good humor and agility, responsibility and determination, always aiming to collaborate with everyone and always trying to help, keeping in mind the importance of developing teamwork.
 
 
 ## Main Languages and Tools 💻 
