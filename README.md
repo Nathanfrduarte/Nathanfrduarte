@@ -1,7 +1,7 @@
 ## Hi, I'm Nathan <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <!--
-**Nathanfrduarte/Nathanfrduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nathanfrduarte/Nathanfrduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 -->
 
 Here are some ideas to get you started:
@@ -13,21 +13,23 @@ Here are some ideas to get you started:
 
 ## Languages and Tools 💻 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![NestJs](https://img.shields.io/badge/-Nest.js-ea2845?style=flat&logoColor=fff&logo=nestjs)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-f2930d?style=flat&logoColor=fff&logo=linux)&nbsp;
+ <div style="display: inline-block"><br>
+  <img align="center" alt="nathanfrduarte-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="nathanfrduarte-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="nathanfrduarte-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="nathanfrduarte-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="nathanfrduarte-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt="nathanfrduarte-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<br> </div>
 
 ## Find me around the web 🌎
-<div> 
+<div> <br>
   <a href = "mailto:nathanfrduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathanfrduarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
+<br> </div> 
 
 ## Git Status
-
+ <div style="display: inline-block"><br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -45,3 +47,4 @@ Here are some ideas to get you started:
 </p>
 
   ![Snake animation](https://github.com/Nathanfrduarte/Nathanfrduarte/blob/output/github-contribution-grid-snake.svg)
+<br> </div>
