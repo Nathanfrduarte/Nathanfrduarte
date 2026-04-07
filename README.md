@@ -4,8 +4,8 @@
 **Nathanfrduarte/Nathanfrduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 -->
 
-- 👨‍💻 I’m currently working on **BairesDev** providing services to **Okta**.
-- 🌱 I’m currently workind with **ReactJs, TypeScript, NodeJS and Playwright**
+- 👨‍💻 I’m currently working on **BairesDev** providing services to **eBay**.
+- 🌱 I’m currently working with **JavaScript, ReactJs, TypeScript, NodeJS and Playwright**
 - 😄 Graduated in information systems and with experience in Frontend and Backend areas, with a greater focus on Frontend, I always seek to acquire and improve my knowledge, learning new languages and market trends. I always try to do everything with good humor and agility, responsibility and determination, always aiming to collaborate with everyone and always trying to help, keeping in mind the importance of developing teamwork.
 
 
